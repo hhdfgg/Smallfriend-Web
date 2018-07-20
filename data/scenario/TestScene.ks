@@ -389,8 +389,8 @@ AI?
 #
 // シーン切り替え
 [p  ]
-[fadeinbgm  storage="../bgm/_Coming_of_spring.ogg"  time="1000"  loop="true"  click="true"  volume="20"  ]
-[playse  storage="../sound/station-yard-holiday1.ogg"  click="true"  volume="20"  ]
+[fadeinbgm  storage="../bgm/Coming-of-spring.ogg"  time="1000"  loop="true"  click="true"  volume="20"  ]
+[playse  storage="../sound/station-yard-holiday1.ogg"  click="true"  volume="20"  buf="1"  ]
 #みどり
 な、なんでこんなとこに
 [delay  speed="400"  ]
